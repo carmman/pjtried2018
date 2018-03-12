@@ -1,6 +1,11 @@
 # pjtried2018
 
+Voici un exemple de texte et de comment le formater à l'interieur des fichiers commme celui-ci (README.md). N'hesitez pas a l'editer pour voir le code derriere.
+
+
 ## Code
+
+Pour écrire du code, separez-le de quatre spaces du debut de la ligne, c'est tout.
 
     # sumary
     import malib
@@ -34,7 +39,7 @@ En bref, éditez votre equation avec l'editeur en ligne, puis recopiez ici l'exp
 
 _Create an equation with CodeCogs editor. Choose svg for rendering and HTML for the embed code. Svg renders well on resize. HTML allows LaTeX to be easily read when you are looking at the source. Copy the embed code from the bottom of the page and paste it into your markdown._
 
-_Exemples:_
+### _Exemples:_
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="mon equation" />
 
