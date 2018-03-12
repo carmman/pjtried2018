@@ -8,13 +8,15 @@ Code
     
     a=np.srand((10,10))
 
-entre apostrophes inversés \`toto e=mc^2\` --> `toto e=mc^2`
+Ecrire avec une poloce fixe, entre apostrophes inversés \`toto e=mc^2\` --> `toto e=mc^2`
 
-entre tiréts bas \_toto e=mc^2\_ --> _toto e=mc^2_
+En _italique_, entre tiréts bas \_toto e=mc^2\_ --> _ma formule e=mc^2_
 
-entre deux tiréts bas \_\_toto e=mc^2\_\_ --> __formule: e=mc^2__
+En __gras__, entre deux tiréts bas \_\_toto e=mc^2\_\_ --> __ma formule: e=mc^2__
 
-Ou si j'au un '\_' dans l''expression alors on utilise plutot les asteriques (\*) :  \*toto e=mc^2\*  -->  *ma_formule e=mc^2*
+En ___gras et italique___, entre trois tiréts bas \_\_\_toto e=mc^2\_\_\_ --> ___ma formule: e=mc^2___
+
+En _italique_ quand j'ai un '\_' dans l''expression alors on utilise plutot les asteriques (\*) :  \*toto e=mc^2\*  -->  *ma_formule e=mc^2*
 
 entre deux asteriques \*\*toto e=mc^2\*\* --> **toto e=mc^2**
 
