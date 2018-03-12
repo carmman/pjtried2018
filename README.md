@@ -1,7 +1,6 @@
 # pjtried2018
 
-Voici un exemple de texte et de comment le formater à l'interieur des fichiers commme celui-ci (README.md). N'hesitez pas a l'editer pour voir le code derriere.
-
+Voici un exemple de texte et de comment le formater à l'interieur des fichiers commme celui-ci (README.md). N'hesitez pas à l'editer pour voir le code derriere.
 
 ## Code
 
