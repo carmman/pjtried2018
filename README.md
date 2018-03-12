@@ -14,7 +14,7 @@ entre tiréts bas \_toto e=mc^2\_ --> _toto e=mc^2_
 
 entre deux tiréts bas \_\_toto e=mc^2\_\_ --> __formule: e=mc^2__
 
-entre asteriques \*toto e=mc^2\*  -->  *ma_formule e=mc^2*
+Ou si j'au un '\_' dans l''expression alors on utilise plutot les asteriques (\*) :  \*toto e=mc^2\*  -->  *ma_formule e=mc^2*
 
 entre deux asteriques \*\*toto e=mc^2\*\* --> **toto e=mc^2**
 
@@ -29,6 +29,8 @@ Formules avec un editeur en ligne, _Complex Scalable Inline Rendering with LaTeX
 En bref, éditez votre equation avec l'editeur en ligne, puis recopiez ici l'expression qui s'afiche dans la case HTML tout en bas de la page.
 
 _Create an equation with CodeCogs editor. Choose svg for rendering and HTML for the embed code. Svg renders well on resize. HTML allows LaTeX to be easily read when you are looking at the source. Copy the embed code from the bottom of the page and paste it into your markdown._
+
+_Exemples:_
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="mon equation" />
 
