@@ -56,6 +56,6 @@ _Create an equation with CodeCogs editor. Choose svg for rendering and HTML for 
 
 Oui, le code HTML est accepté de façon native. Pas d'exemples, mais essayez ! ...
 
-Plus d'infos dans la page de Markdown Edit :
+## Plus d'infos dans la page de Markdown Edit :
 
     https://github.com/georgeOsdDev/markdown-edit/blob/master/README.md
