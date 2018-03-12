@@ -22,7 +22,7 @@ Formules avec du code HTML:
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
-Formules avec du _Complex Scalable Inline Rendering with LaTeX and Codecogs_ :
+Formules avec un editeur en ligne, _Complex Scalable Inline Rendering with LaTeX and Codecogs_ :
 
     https://www.codecogs.com/latex/eqneditor.php
 
@@ -35,11 +35,5 @@ If your needs are greater use an external LaTeX renderer like CodeCogs. Create a
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;e=m{\cdot}c^2" title="mon e=mc2 avec des spaces" />
 
 
-GitHub support only somtimes worked using the above raw html syntax for readable LaTeX for me. If the above does not work for you another option is to instead choose URL Encoded rendering and use that output to manually create a link like:
 
-\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
-
-![\Large e=mc^2](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=e&space;=&space;m&space;\cdot&space;c^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e&space;=&space;m&space;\cdot&space;c^{2}" title="e = m \cdot c^{2}" /></a>
