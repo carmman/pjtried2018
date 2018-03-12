@@ -53,5 +53,5 @@ _Create an equation with CodeCogs editor. Choose svg for rendering and HTML for 
 
 
 ## HTML
-|
-Oui, le code HTML est accepté de façon native. Essayez ...
+
+Oui, le code HTML est accepté de façon native. Pas d'exemples, mais essayez ! ...
