@@ -50,3 +50,8 @@ _Create an equation with CodeCogs editor. Choose svg for rendering and HTML for 
 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=e&space;=&space;m&space;\cdot&space;c^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e&space;=&space;m&space;\cdot&space;c^{2}" title="e = m \cdot c^{2}" /></a>
+
+
+## HTML
+|
+Oui, le code HTML est accepté de façon native. Essayez ...
