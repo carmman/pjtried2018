@@ -30,7 +30,7 @@ If your needs are greater use an external LaTeX renderer like CodeCogs. Create a
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="mon equation" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;e = m \dot c^2" title="mon e=mc2" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;e&space=&spacem&space\dot&spacec^2" title="mon e=mc2" />
 
 
 GitHub support only somtimes worked using the above raw html syntax for readable LaTeX for me. If the above does not work for you another option is to instead choose URL Encoded rendering and use that output to manually create a link like:
