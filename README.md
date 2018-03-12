@@ -17,6 +17,8 @@ entre tiréts bas _toto e=mc^2_
 
 entre asteriques *toto e=mc^2*
 
+entre deux asteriques *toto e=mc^2*
+
 Formules $a=4$
 
     Formules $a=4$
