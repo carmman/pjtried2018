@@ -31,6 +31,10 @@ entre deux asteriques \*\*toto e=mc^2\*\* --> **toto e=mc^2**
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
+e = m c <sup> 2
+
+e = m <i>c</i> <sup> 2
+
 Formules avec un editeur en ligne, _Complex Scalable Inline Rendering with LaTeX and Codecogs_ :
 
     https://www.codecogs.com/latex/eqneditor.php
