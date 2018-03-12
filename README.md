@@ -1,6 +1,6 @@
 # pjtried2018
 
-Code
+## Code
 
     # sumary
     import malib
@@ -8,19 +8,21 @@ Code
     
     a=np.srand((10,10))
 
-Ecrire avec une poloce fixe, entre apostrophes inversés \`toto e=mc^2\` --> `toto e=mc^2`
+## Texte en italique, en gras, ...
 
-En _italique_, entre tiréts bas \_toto e=mc^2\_ --> _ma formule e=mc^2_
+Ecrire avec une police de characteres fixe: entre apostrophes inversés \`toto e=mc^2\` --> `toto e=mc^2`
 
-En __gras__, entre deux tiréts bas \_\_toto e=mc^2\_\_ --> __ma formule: e=mc^2__
+En _italique_: entre tiréts bas \_toto e=mc^2\_ --> _ma formule e=mc^2_
 
-En ___gras et italique___, entre trois tiréts bas \_\_\_toto e=mc^2\_\_\_ --> ___ma formule: e=mc^2___
+En __gras__: entre deux tiréts bas \_\_toto e=mc^2\_\_ --> __ma formule: e=mc^2__
+
+En ___gras et italique___: entre trois tiréts bas \_\_\_toto e=mc^2\_\_\_ --> ___ma formule: e=mc^2___
 
 En _italique_ quand j'ai un '\_' dans l''expression alors on utilise plutot les asteriques (\*) :  \*toto e=mc^2\*  -->  *ma_formule e=mc^2*
 
 entre deux asteriques \*\*toto e=mc^2\*\* --> **toto e=mc^2**
 
-Formules avec du code HTML:
+## Formules avec du code HTML:
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
