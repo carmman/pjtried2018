@@ -7,19 +7,15 @@ Code
     
     a=np.srand((10,10))
 
-entre apostrophes 'toto e=mc^2'
+entre apostrophes inversés \`toto e=mc^2\` --> `toto e=mc^2`
 
-entre apostrophes inversés `toto e=mc^2`
+entre tiréts bas \_toto e=mc^2\_ --> _toto e=mc^2_
 
-entre tiréts -toto e=mc^2-
+entre deux tiréts bas \_\_toto e=mc^2\_\_ --> __toto e=mc^2__
 
-entre tiréts bas _toto e=mc^2_
+entre asteriques \*toto e=mc^2\*  -->  *toto e=mc^2*
 
-entre tiréts bas __toto e=mc^2__
-
-entre asteriques *toto e=mc^2*
-
-entre deux asteriques *toto e=mc^2*
+entre deux asteriques \*\*toto e=mc^2\*\* --> **toto e=mc^2**
 
 Formules $a=4$
 
